@@ -6945,7 +6945,7 @@ test = ["array-api-strict", "asv", "gmpy2", "hypothesis (>=6.30)", "mpmath", "po
 name = "seaborn"
 version = "0.12.2"
 description = "Statistical data visualization"
-optional = true
+optional = false
 python-versions = ">=3.7"
 files = [
     {file = "seaborn-0.12.2-py3-none-any.whl", hash = "sha256:ebf15355a4dba46037dfd65b7350f014ceb1f13c05e814eda2c9f5fd731afc08"},
@@ -8942,4 +8942,4 @@ yfinance = ["yfinance"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<3.9.7 || >3.9.7,<4.0"
-content-hash = "28dec1a54e6c5587bdd54ad6c90fd6101c0cbb7fd7e7366ddc1278d4a0ea73d2"
+content-hash = "46bf7bc5b57a7a0f40822e0a433beb8e92eba12db60a8d698928d8d16efbf4fc"
